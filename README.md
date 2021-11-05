@@ -1,9 +1,9 @@
-# Cross-entropy-method-Series
+# *Cross-entropy-method-Series*
 
 
-# 交叉熵方法的系列实现
+## Deep Cross Entropy Method
 
-## Cross Entropy Method
+- [cem.py](https://github.com/tinyzqh/Cross-entropy-method-Series/blob/main/cem.py) : The deep cross-entropy method is used in continuous and discrete action spaces.
 
 
 ## TODO
