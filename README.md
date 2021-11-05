@@ -6,7 +6,7 @@
 - [cem.py](https://github.com/tinyzqh/Cross-entropy-method-Series/blob/main/cem.py) : The deep cross-entropy method is used in continuous and discrete action spaces.
 
 
-## TODO
+## :boom: [TODO]()
 
 - [Parallelized Cross Entropy Method](https://github.com/ADGEfficiency/cem)
 - [Safe Model-based Reinforcement Learning with Robust Cross-Entropy Method](https://github.com/liuzuxin/safe-mbrl)
