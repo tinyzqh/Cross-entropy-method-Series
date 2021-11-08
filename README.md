@@ -5,6 +5,13 @@
 
 - [cem.py](https://github.com/tinyzqh/Cross-entropy-method-Series/blob/main/cem.py) : The deep cross-entropy method is used in continuous and discrete action spaces.
 
+<div align=center>
+    <span class='gp-n'>
+        <img src='https://github.com/tinyzqh/Cross-entropy-method-Series/blob/main/CartPole-v0Figure_1.png' width="250" alt="CartPole-v0"/>
+        <img src='https://github.com/tinyzqh/Cross-entropy-method-Series/blob/main/HalfCheetah-v2Figure_1.png' width="250" alt="HalfCheetah-v2"/>
+    </span>
+</div>
+
 
 ## :boom: [TODO]()
 
